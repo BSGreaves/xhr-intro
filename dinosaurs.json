@@ -1,19 +1,19 @@
 {
 	"dinosaurs": [{
 		"name": "Rex",
-		"color": "T-rex",
+		"type": "T-rex",
 		"food": "donuts",
 		"url": "https://s-media-cache-ak0.pinimg.com/564x/b5/26/dd/b526dd0ff64e505e08ca66f90c17c0fa.jpg"
 		},
 		{
 		"name": "Petie",
-		"color": "Pterodactyl",
+		"type": "Pterodactyl",
 		"food": "General Tsao's",
 		"url": "https://www.ptesquad.com/images/woman.png"
 		},
 		{
 		"name": "Vinnie",
-		"color": "Velociraptor",
+		"type": "Velociraptor",
 		"food": "Cannoli",
 		"url": "https://imgs.xkcd.com/comics/raptor_fences.png"
 		}
